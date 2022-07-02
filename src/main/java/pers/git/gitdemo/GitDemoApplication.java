@@ -12,6 +12,7 @@ public class GitDemoApplication {
         System.out.println("hello,git2222");
         System.out.println("hello,git3333——hot_fix");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 
 }
